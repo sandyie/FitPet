@@ -1,0 +1,23 @@
+{
+  "Reward points": 666,
+  "Total calorie": 777,
+  "Exercises": [
+    {
+      "Exercise type": "RUN",
+      "Time": 135
+    },
+    {
+      "Exercise type": "DANCE",
+      "Time": 10
+    },
+    {
+      "Exercise type": "YOGA",
+      "Time": 7
+    }
+  ],
+  "Pet": {
+    "Intimacy": 12,
+    "name": "test2",
+    "EnergyLevel": 20
+  }
+}
